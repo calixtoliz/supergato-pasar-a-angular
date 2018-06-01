@@ -1,0 +1,43 @@
+.gato1opt{
+    line-height: 1.5em;
+    padding: 0 0 0 80px;
+    background: url(./images/img/gato1_opt.jpg) no-repeat left top !important;
+    min-height: 70px;
+    height: auto !important;
+    height: 70px;
+    margin-bottom: 12px;
+}
+
+.gato2opt{
+    line-height: 1.5em;
+    padding: 0 0 0 80px;
+    background: url(./images/img/gato_comiendo_opt.jpg) no-repeat left top !important;
+    min-height: 70px;
+    height: auto !important;
+    height: 70px;
+    margin-bottom: 12px;
+}
+
+.gato3opt{
+    line-height: 1.5em;
+    padding: 0 0 0 80px;
+    background: url(./images/img/gato_bebiendo_opt.jpg) no-repeat left top !important;
+    min-height: 70px;
+    height: auto !important;
+    height: 70px;
+    margin-bottom: 12px;
+}
+
+.espacio{
+    background-color: rgb(233, 233, 233);
+    height: 2100em;
+
+}
+.circulo{
+
+    height: 15rem;
+    width: 15;
+    border-radius: 60rem;
+}
+
+
